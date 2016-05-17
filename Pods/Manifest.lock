@@ -1,0 +1,10 @@
+PODS:
+  - BigInt (1.3.0)
+
+DEPENDENCIES:
+  - BigInt (~> 1.3.0)
+
+SPEC CHECKSUMS:
+  BigInt: 1ba4796c674f63a82132ea75cd2b4754608873ed
+
+COCOAPODS: 0.39.0
